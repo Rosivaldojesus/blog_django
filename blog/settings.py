@@ -44,7 +44,6 @@ INSTALLED_APPS = [
     'comentarios',
 
     'ckeditor',
-
 ]
 
 
@@ -141,3 +140,4 @@ MESSAGE_TAGS = {
     constants.ERROR: 'alert-danger',
 }
 
+#Summernote
